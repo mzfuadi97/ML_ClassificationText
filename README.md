@@ -12,10 +12,12 @@ Username dicoding: mzfuadi97
 | Performa model | Pada Epoch 1 dari total 25 epoch yang direncanakan, model telah menunjukkan performa yang positif dengan akurasi sekitar 92.31% pada data pelatihan dan akurasi sekitar 97.39% pada data validasi. Hal ini mengindikasikan bahwa model memiliki kemampuan untuk memahami pola-pola dalam data pelatihan dan mampu menggeneralisasi dengan baik ke data yang belum pernah dilihat sebelumnya. Selain itu, loss function yang rendah (0.2165 untuk training dan 0.0917 untuk validasi) juga menunjukkan bahwa model cocok dengan baik terhadap kedua set data. Walaupun ini adalah awal dari proses pelatihan, hasil ini memberikan indikasi positif terhadap potensi performa yang lebih baik pada epoch-epoch berikutnya. |
 
 ### Dataset
-
+![Dataset](https://github.com/mzfuadi97/ML_ClassificationText/assets/70827786/36afef78-801b-4aed-a9a1-3f3484ba5953)
 
 ### Model_Classification
+![Model](https://github.com/mzfuadi97/ML_ClassificationText/assets/70827786/15e72e88-7d02-420d-9a22-0f2ddb187275)
 
 
-### Validation-Vis
+### Validation-epoch
+![Validation](https://github.com/mzfuadi97/ML_ClassificationText/assets/70827786/5d4b0c0f-610e-45bd-a86f-474d93f3d2b8)
 
